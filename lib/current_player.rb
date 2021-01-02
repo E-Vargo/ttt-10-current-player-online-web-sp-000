@@ -14,7 +14,7 @@ end
 def current_player(board)
 if turn_count(board) % 2 == true
     "O"
-else
-    return "X"
+elsif turn_count(board) % 2 == false
+    "X"
 end
 end
