@@ -1,9 +1,9 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
-def current_player(board)
+def turn_count(board)
 
 end
 
-def turn_count(board)
+def current_player(board)
 
 end
