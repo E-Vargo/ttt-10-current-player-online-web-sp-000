@@ -7,6 +7,7 @@ if positions == "X" || positions == "O"
   counter += 1
 end
 end
+end
 
 def current_player(board)
 
